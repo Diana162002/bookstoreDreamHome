@@ -1,0 +1,73 @@
+{
+  "products": [
+
+    {
+      "_id": "book1",
+      "image": "/images/HP1",
+      "title": "Harry Potter and The Philospher's or Sorcerer's Stone",
+      
+      "genre": "fantasy novel",
+      "autor": "Joanne Rowling ",
+      "description": "Harry Potter is a series of seven fantasy novels written by British author J. K. Rowling. The novels chronicle the lives of a young wizard, Harry Potter, and his friends Hermione Granger and Ron Weasley, all of whom are students at Hogwarts School of Witchcraft and Wizardry. ",
+      
+      "availableLanguage": ["RU", "EN", "CH", "FR"],
+      "price": 350
+    },
+
+    {
+      "_id": "book2",
+      "image": "/images/HP2",
+      "title": "harry potter and the chamber of secrets",
+      
+      "genre": "fantasy novel",
+      "autor": "Joanne Rowling ",
+      "description": "Harry Potter is a series of seven fantasy novels written by British author J. K. Rowling. The novels chronicle the lives of a young wizard, Harry Potter, and his friends Hermione Granger and Ron Weasley, all of whom are students at Hogwarts School of Witchcraft and Wizardry. ",
+      
+      "availableLanguage": ["RU", "EN", "CH", "FR"],
+      "price": 350
+    },
+
+    {
+      "_id": "book3",
+      "image": "/images/HP3",
+      "title": "Harry Potter and The Prisoner of Azkaban",
+      
+      "genre": "fantasy novel",
+      "autor": "Joanne Rowling ",
+      "description": "Harry Potter is a series of seven fantasy novels written by British author J. K. Rowling. The novels chronicle the lives of a young wizard, Harry Potter, and his friends Hermione Granger and Ron Weasley, all of whom are students at Hogwarts School of Witchcraft and Wizardry. ",
+      
+      "availableLanguage": ["RU", "EN", "CH", "FR"],
+      "price": 350
+    },
+
+
+    {
+      "_id": "book4",
+      "image": "/images/HP4",
+      "title": "Harry Potter and The Goblet of Fire",
+      
+      "genre": "fantasy novel",
+      "autor": "Joanne Rowling ",
+      "description": "Harry Potter is a series of seven fantasy novels written by British author J. K. Rowling. The novels chronicle the lives of a young wizard, Harry Potter, and his friends Hermione Granger and Ron Weasley, all of whom are students at Hogwarts School of Witchcraft and Wizardry. ",
+      
+      "availableLanguage": ["RU", "EN", "CH", "FR"],
+      "price": 350
+    },
+
+
+    {
+      "_id": "book5",
+      "image": "/images/HP5",
+      "title": "Harry Potter and The Order of the Phoenix",
+      
+      "genre": "fantasy novel",
+      "autor": "Joanne Rowling ",
+      "description": "Harry Potter is a series of seven fantasy novels written by British author J. K. Rowling. The novels chronicle the lives of a young wizard, Harry Potter, and his friends Hermione Granger and Ron Weasley, all of whom are students at Hogwarts School of Witchcraft and Wizardry. ",
+      
+      "availableLanguage": ["RU", "EN", "CH", "FR"],
+      "price": 350
+    }
+
+
+  ]
+}

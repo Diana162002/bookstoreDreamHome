@@ -1,0 +1,23 @@
+{
+  "order": [
+
+    {
+      "_id": "",
+      "email": "",
+      "name": "",
+      "address": "",
+      "total": "",
+      
+      "cartItems": [
+        {
+          "_id": "",
+          "title": "",
+          "genre": "",
+          "price": "",
+          "count": ""
+        }
+      ]
+    }
+
+  ]
+}
